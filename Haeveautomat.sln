@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haeveautomat", "Haeveautomat\Haeveautomat.csproj", "{1232ABE0-807C-4744-9E3B-B341F3DB1ABA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haeveautomat.Tests", "Haeveautomat.Tests\Haeveautomat.Tests.csproj", "{5D2E6E89-E757-4A41-AE0A-586506B8B76D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heaveautomat.Tests", "Heaveautomat.Tests\Heaveautomat.Tests.csproj", "{D31A439B-972C-4269-A58D-D5A7D100F66A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{1232ABE0-807C-4744-9E3B-B341F3DB1ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1232ABE0-807C-4744-9E3B-B341F3DB1ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1232ABE0-807C-4744-9E3B-B341F3DB1ABA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5D2E6E89-E757-4A41-AE0A-586506B8B76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D2E6E89-E757-4A41-AE0A-586506B8B76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D2E6E89-E757-4A41-AE0A-586506B8B76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D2E6E89-E757-4A41-AE0A-586506B8B76D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31A439B-972C-4269-A58D-D5A7D100F66A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31A439B-972C-4269-A58D-D5A7D100F66A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31A439B-972C-4269-A58D-D5A7D100F66A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31A439B-972C-4269-A58D-D5A7D100F66A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

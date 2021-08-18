@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BankAccount.cs" />
+    <Compile Include="Card.cs" />
+    <Compile Include="CardManager.cs" />
+    <Compile Include="Haevekort.cs" />
+    <Compile Include="ATM.cs" />
+    <Compile Include="MasterCard.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
