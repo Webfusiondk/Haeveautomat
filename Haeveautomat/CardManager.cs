@@ -8,7 +8,7 @@ namespace Haeveautomat
 {
     public class CardManager
     {
-        public bool ValidateKort(Card card)
+        public bool ValidateCard(Card card)
         {
             if (card.ExpireingDate >= DateTime.Now)
             {
